@@ -1,0 +1,15 @@
+C:\Users\hp\Desktop\FInal\bin\Debug\net6.0\FInal.exe
+C:\Users\hp\Desktop\FInal\bin\Debug\net6.0\FInal.deps.json
+C:\Users\hp\Desktop\FInal\bin\Debug\net6.0\FInal.runtimeconfig.json
+C:\Users\hp\Desktop\FInal\bin\Debug\net6.0\FInal.dll
+C:\Users\hp\Desktop\FInal\bin\Debug\net6.0\FInal.pdb
+C:\Users\hp\Desktop\FInal\obj\Debug\net6.0\FInal.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\FInal\obj\Debug\net6.0\FInal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\FInal\obj\Debug\net6.0\FInal.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\FInal\obj\Debug\net6.0\FInal.AssemblyInfo.cs
+C:\Users\hp\Desktop\FInal\obj\Debug\net6.0\FInal.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\FInal\obj\Debug\net6.0\FInal.dll
+C:\Users\hp\Desktop\FInal\obj\Debug\net6.0\refint\FInal.dll
+C:\Users\hp\Desktop\FInal\obj\Debug\net6.0\FInal.pdb
+C:\Users\hp\Desktop\FInal\obj\Debug\net6.0\FInal.genruntimeconfig.cache
+C:\Users\hp\Desktop\FInal\obj\Debug\net6.0\ref\FInal.dll
